@@ -1,3 +1,3 @@
 # UPDI Programmer Pinout
 
-![UPDI Programmer Pinout](src/UPDI-Programmer-Pinout.png)
+![UPDI Programmer Pinout](src/UPDI-Programmer.png)
